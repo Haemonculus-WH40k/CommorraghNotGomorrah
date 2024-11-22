@@ -21,6 +21,7 @@
            white-space: normal;  /* 允许文本换行 */
             word-wrap: break-word; /* 长单词自动换行 */
             word-break: break-word; /* 防止长单词溢出 */
+                max-width: 1000px; 
             z-index: 100; /* 确保浮动框在其他元素上方 */
             opacity: 0; /* 初始透明 */
             transition: opacity 0.3s ease; /* 平滑显示效果 */
