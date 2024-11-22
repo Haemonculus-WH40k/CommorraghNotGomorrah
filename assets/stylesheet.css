@@ -1,3 +1,46 @@
+/* 样式：定义上标的显示效果 */
+        .calibre2 {
+            font-size: 1.2em;
+            vertical-align: super; /* 让数字位于文本上方 */
+            position: relative; /* 让注释框基于这个元素定位 */
+            cursor: pointer; /* 鼠标悬停时显示手型 */
+        }
+
+        /* 设置浮动窗口 */
+        .tooltip {
+            display: none; /* 默认隐藏 */
+            position: absolute;
+            bottom: 100%; /* 使浮动框出现在数字的上方 */
+            left: 50%;
+            transform: translateX(-50%); /* 使浮动框水平居中 */
+            background-color: #333;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.9em;
+            white-space: nowrap;
+            z-index: 100; /* 确保浮动框在其他元素上方 */
+            opacity: 0; /* 初始透明 */
+            transition: opacity 0.3s ease; /* 平滑显示效果 */
+        }
+
+        /* 鼠标悬停时显示浮动窗口 */
+        .calibre2:hover .tooltip {
+            display: block;
+            opacity: 1; /* 显示时完全不透明 */
+        }
+
+        /* 设置浮动框的箭头 */
+        .tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px; /* 调整箭头的位置 */
+            border-width: 5px;
+            border-style: solid;
+            border-color: transparent transparent #333 transparent; /* 使箭头指向上方 */
+        }
 .block_ {
   display: block;
   font-family: "Calibri", sans-serif;
