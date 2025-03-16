@@ -1,0 +1,12 @@
+title: whatever
+description: whatever
+baseurl: ""  
+url: "https://haemonculus-wh40k.github.io"  
+
+theme: minima 
+
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
