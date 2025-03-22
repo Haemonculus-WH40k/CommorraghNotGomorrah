@@ -9,5 +9,7 @@
 ## 翻译与内容链接
 - [审判庭战争 - Ian Watson](/CommorraghNotGomorrah/IanWatson)
 - [星际战士 - Ian Watson](/CommorraghNotGomorrah/Space_Marine)
-- [短篇翻译仓库](/CommorraghNotGomorrah/ShortStory)
+- [战锤其他中长篇翻译](/CommorraghNotGomorrah/novels)
+- [短篇翻译](/CommorraghNotGomorrah/ShortStory)
 - [战锤跑团内容翻译](/CommorraghNotGomorrah/Trpg)
+
