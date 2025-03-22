@@ -1,3 +1,5 @@
+# 坚韧意志
+
 ## 本书信息
 
 本书译自 *Endeavour of Will*，原作者 Ben Counter，版权归 Games Workshop 及 the Black Library 所有。  
