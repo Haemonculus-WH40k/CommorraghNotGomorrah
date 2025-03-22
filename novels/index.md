@@ -4,7 +4,7 @@
 
 ## 目录
 
-- [坚韧意志](endeavour/index)  
+- [坚韧意志](endeavourofwill)  
   作者 Ben Counter，译者维克特 Vectaidh，校对Ciel，讲述了帝国之拳一连长莱山德为达目的不择手段的故事……
 
 
