@@ -1,10 +1,24 @@
-# 审判庭战争（The Inquisition War）
+# 审判庭战争
 
 本系列译自 *The Inquisition War*，原作者 **Ian Watson**，版权归 **Games Workshop** 所有。
 
 本书为免费电子发布的不盈利民间译本，计划中为多名译者合作翻译，具体见单本介绍；如有疑问欢迎纠错。
 
 *仅供爱好者学习交流使用，请勿以之进行任何商业用途。*
+
+## 三部曲正文
+
+### 第一部：德拉科（Draco）  
+**译者：** 维克特Vectaidh   
+**校对：** 真红之月 
+
+### 书籍简介  
+原书标题为 *Inquisitor*，后被作者以主角之名重命名为 *Draco*。  
+异端审判官贾克·德拉科踏上了他怪诞、疯狂、漫长而忠诚的旅途。
+
+[**在线阅读《德拉科》**](/CommorraghNotGomorrah/IanWatson/draco)  
+
+---
 
 ## 系列外传短篇：
 ### 扭曲的群星（Warped Stars）
@@ -22,7 +36,7 @@
 ---
 
 ## 待更新内容：
-- **Alien Beast Within**（待更新）
-- **三部曲正文相关内容及作者序**（待更新）
+- **Alien Beast Within**
+- **剩余三部曲正文相关内容及作者序**
 
-[**返回仓库主页**](/CommorraghNotGomorrah/index.html)
+[**返回仓库主页**](/CommorraghNotGomorrah/index)
