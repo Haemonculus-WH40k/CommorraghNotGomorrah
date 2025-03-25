@@ -20,6 +20,17 @@
 
 ---
 
+### 第二部：丑角（Harlequin）  
+**译者：** 真红之月
+**校对：** 维克特Vectaidh  
+
+### 书籍简介  
+离开王座之后，贾克·德拉科继续前往阴谋漩涡的深处，探知银河系内关于九头蛇、光照会，乃至更多的隐秘……
+
+[**在线阅读《丑角》**](/CommorraghNotGomorrah/IanWatson/harlequin)  
+
+---
+
 ## 系列外传短篇：
 ### 扭曲的群星（Warped Stars）
 **译者：** 维克特 Vectaidh  
