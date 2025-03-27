@@ -88,6 +88,7 @@
 
 ***
 
-[下一章](/acrhon3)
+[下一章](/CommorraghNotGomorrah/novels/pathofarchon/archon3)
 
-[返回目录页](/index)
+[返回目录页](/CommorraghNotGomorrah/novels/pathofarchon)
+
