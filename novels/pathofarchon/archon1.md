@@ -166,6 +166,7 @@ Xerathis，泽拉西斯，破碎印记（Broken Sigil）阴谋团执政官，以
 
 ***
 
-[下一章](/acrhon2)
+[下一章](/CommorraghNotGomorrah/novels/pathofarchon/archon2)
 
-[返回目录页](/index)
+[返回目录页](/CommorraghNotGomorrah/novels/pathofarchon)
+
