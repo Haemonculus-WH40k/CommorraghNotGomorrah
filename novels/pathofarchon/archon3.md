@@ -114,6 +114,7 @@
 
 [^2]: Wrack，不知何时开始，小人棍的官中成了凌虐者，大人棍的官中成了畸人。
 
-[下一章](/acrhon4)
+[下一章](/CommorraghNotGomorrah/novels/pathofarchon/archon4)
 
-[返回目录页](/index)
+[返回目录页](/CommorraghNotGomorrah/novels/pathofarchon)
+
