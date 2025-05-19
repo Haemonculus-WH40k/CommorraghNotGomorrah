@@ -227,7 +227,8 @@
 
  
 [^1]: In the land of a thousand million people, what does the death of one million of these count in the cause of purity? 应当是捏他的斯大林“The death of one man is a tragedy. The death of millions is a statistic.”（一个人的死亡是场悲剧，千百万人的死亡只是个统计数字），当然继续往更早的时间追溯则可以追溯至Beilby Porteus的“ One Murder made a Villain,Millions a Hero.”等等，不过以斯大林这句最为出名；
-另一个方面来讲，斯大林到底在什么背景下说了这句话（枪决巴普洛夫的时候说的，还是和政委开会说的，还是和美国外交官Averell Harriman说的），乃至到底有多少人说过类似的话，斯大林到底说没说过这句话……都相当众说纷纭。
+
+      另一个方面来讲，斯大林到底在什么背景下说了这句话（枪决巴普洛夫的时候说的，还是和政委开会说的，还是和美国外交官Averell Harriman说的），乃至到底有多少人说过类似的话，斯大林到底说没说过这句话……都相当众说纷纭。
 
 [^2]: Bees flying into a bonfire.直译蜜蜂飞进篝火。
 
