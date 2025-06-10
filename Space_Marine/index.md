@@ -20,6 +20,10 @@
 
 然而，如果您能够适应上世纪艺术浪潮中充满偶然性、讽刺幽默和怪诞趣味的前卫风格，愿意从此往后以一个颠覆性的全新视角观赏战锤 40K 的故事，那么欢迎您随译者一同加入这场奇异的旅途。
 
+注：原文无章节名，章节名为译者添加。
+
+**此书正在进行新一轮校对翻新，已翻新章节为md格式，未翻新章节仍为html格式**
+
 ---
 
 ## 主要人物表
@@ -46,7 +50,7 @@
 [作者访谈](/CommorraghNotGomorrah/Space_Marine/author_interview.html)
 
 ### 第一部分：特拉兹奥的三兄弟
-- [第一章：落魄上巢贵族男孩的入职体检](/CommorraghNotGomorrah/Space_Marine/chapter1.html)
+- [第一章：落魄上巢贵族男孩的入职体检](/CommorraghNotGomorrah/Space_Marine/chapter1)
 - [第二章：三位主角](/CommorraghNotGomorrah/Space_Marine/chapter2.html)
 - [第三章：痛苦手套](/CommorraghNotGomorrah/Space_Marine/chapter3.html)
 - [第四章：恐怖隧道](/CommorraghNotGomorrah/Space_Marine/chapter4.html)
