@@ -51,9 +51,9 @@
 
 ### 第一部分：特拉兹奥的三兄弟
 - [第一章：落魄上巢贵族男孩的入职体检](/CommorraghNotGomorrah/Space_Marine/chapter1)
-- [第二章：三位主角](/CommorraghNotGomorrah/Space_Marine/chapter2.html)
-- [第三章：痛苦手套](/CommorraghNotGomorrah/Space_Marine/chapter3.html)
-- [第四章：恐怖隧道](/CommorraghNotGomorrah/Space_Marine/chapter4.html)
+- [第二章：三位主角](/CommorraghNotGomorrah/Space_Marine/chapter2)
+- [第三章：痛苦手套](/CommorraghNotGomorrah/Space_Marine/chapter3)
+- [第四章：恐怖隧道](/CommorraghNotGomorrah/Space_Marine/chapter4)
 - [第五章：僵化神经节、预置胃、基因侦测神经](/CommorraghNotGomorrah/Space_Marine/chapter5.html)
 - [第六章：新兵誓言与多恩之手](/CommorraghNotGomorrah/Space_Marine/chapter6.html)
 
