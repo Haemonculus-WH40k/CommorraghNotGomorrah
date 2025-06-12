@@ -188,6 +188,6 @@
 
 [^4]: 这里发誓和骂娘都是swore，根据语义这么翻译。
 
-[第三章](CommorraghNotGomorrah/Space_Marine/chapter3)
+[第三章](chapter3)
 
-[返回目录](CommorraghNotGomorrah/Space_Marine/index)
+[返回目录](index)
