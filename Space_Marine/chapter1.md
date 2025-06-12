@@ -220,6 +220,6 @@
 
 ***
 
-[第二章](CommorraghNotGomorrah/Space_Marine/chapter2)
+[第二章](chapter2)
 
-[返回目录](CommorraghNotGomorrah/Space_Marine/index)
+[返回目录](index)
