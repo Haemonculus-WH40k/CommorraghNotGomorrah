@@ -24,6 +24,8 @@
 
 **此书正在进行新一轮校对翻新，已翻新章节为md格式，未翻新章节仍为html格式**
 
+**当前进度：翻新至第一大章节完**
+
 ---
 
 ## 主要人物表
@@ -54,8 +56,8 @@
 - [第二章：三位主角](/CommorraghNotGomorrah/Space_Marine/chapter2)
 - [第三章：痛苦手套](/CommorraghNotGomorrah/Space_Marine/chapter3)
 - [第四章：恐怖隧道](/CommorraghNotGomorrah/Space_Marine/chapter4)
-- [第五章：僵化神经节、预置胃、基因侦测神经](/CommorraghNotGomorrah/Space_Marine/chapter5.html)
-- [第六章：新兵誓言与多恩之手](/CommorraghNotGomorrah/Space_Marine/chapter6.html)
+- [第五章：僵化神经节、预置胃、基因侦测神经](/CommorraghNotGomorrah/Space_Marine/chapter5)
+- [第六章：新兵誓言与多恩之手](/CommorraghNotGomorrah/Space_Marine/chapter6)
 
 ### 第二部分：卡尔卡森远征
 - [第七章：第一次的侦察兵作战](/CommorraghNotGomorrah/Space_Marine/chapter7.html)
