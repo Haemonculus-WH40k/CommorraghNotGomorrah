@@ -60,22 +60,22 @@
 - [第六章：新兵誓言与多恩之手](/CommorraghNotGomorrah/Space_Marine/chapter6)
 
 ### 第二部分：卡尔卡森远征
-- [第七章：第一次的侦察兵作战](/CommorraghNotGomorrah/Space_Marine/chapter7.html)
-- [第八章：战士的梦境与发现饮血者](/CommorraghNotGomorrah/Space_Marine/chapter8.html)
-- [第九章：美味的脑子](/CommorraghNotGomorrah/Space_Marine/chapter9.html)
-- [第十章：驾驶泰坦 bolter porn](/CommorraghNotGomorrah/Space_Marine/chapter10.html)
-- [第十一章：胜利返航与爱恨交织情结](/CommorraghNotGomorrah/Space_Marine/chapter11.html)
-- [第十二章：太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter12.html)
-- [第十三章：继续太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter13.html)
-- [第十四章：重口 T 佬](/CommorraghNotGomorrah/Space_Marine/chapter14.html)
-- [第十五章：守秘誓言与时光飞逝](/CommorraghNotGomorrah/Space_Marine/chapter15.html)
+- [第七章：第一次的侦察兵作战](/CommorraghNotGomorrah/Space_Marine/chapter7)
+- [第八章：战士的梦境与发现饮血者](/CommorraghNotGomorrah/Space_Marine/chapter8)
+- [第九章：美味的脑子](/CommorraghNotGomorrah/Space_Marine/chapter9)
+- [第十章：驾驶泰坦 bolter porn](/CommorraghNotGomorrah/Space_Marine/chapter10)
+- [第十一章：胜利返航与爱恨交织情结](/CommorraghNotGomorrah/Space_Marine/chapter11)
+- [第十二章：太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter12)
+- [第十三章：继续太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter13)
+- [第十四章：重口 T 佬](/CommorraghNotGomorrah/Space_Marine/chapter14)
+- [第十五章：守秘誓言与时光飞逝](/CommorraghNotGomorrah/Space_Marine/chapter15)
 
 ### 第三部分：泰伦恐怖
-- [第十六章：泰伦的 xx 有些松弛](/CommorraghNotGomorrah/Space_Marine/chapter16.html)
-- [第十七章：帝皇替身与死亡拥抱](/CommorraghNotGomorrah/Space_Marine/chapter17.html)
-- [第十八章：深入虫巢与半龙人](/CommorraghNotGomorrah/Space_Marine/chapter18.html)
-- [第十九章：帝国之拳自己的莎乐美](/CommorraghNotGomorrah/Space_Marine/chapter19.html)
-- [第二十章：刻骨铭心](/CommorraghNotGomorrah/Space_Marine/chapter20.html)
+- [第十六章：泰伦的 xx 有些松弛](/CommorraghNotGomorrah/Space_Marine/chapter16)
+- [第十七章：帝皇替身与死亡拥抱](/CommorraghNotGomorrah/Space_Marine/chapter17)
+- [第十八章：深入虫巢与半龙人](/CommorraghNotGomorrah/Space_Marine/chapter18)
+- [第十九章：帝国之拳自己的莎乐美](/CommorraghNotGomorrah/Space_Marine/chapter19)
+- [第二十章：刻骨铭心](/CommorraghNotGomorrah/Space_Marine/chapter20)
 
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
