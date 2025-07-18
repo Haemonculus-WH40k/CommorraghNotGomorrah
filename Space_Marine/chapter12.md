@@ -246,7 +246,7 @@
 
 [^1]: 原文No peace for the virtuous，捏他了一条出自圣经的俚语no rest for the wicked，原意是恶人永无宁日，现代多是自嘲自己没空休息。
 
-[^2]: 原文The first shall be first, mused Biff, and the last shall be last…是圣经So the last shall be first, and the first last的反写；玛窦19:30、20:16,马尔谷10:31，路加13:30等处皆有此句；大致是指救恩的典标准不同于人的标准在后的也可以成为在先的。，
+[^2]: 原文The first shall be first, mused Biff, and the last shall be last…是圣经So the last shall be first, and the first last的反写；玛窦19:30、20:16,马尔谷10:31，路加13:30等处皆有此句；大致是指天主救恩的标准不同于人世间的标准，在后的也可以成为在先的。
 
 [^3]: Tao就是道家的“道”，Ley要么当是古英语的“法”，要么是地球奥秘运动中提出的地脉/地球能量线。
 
