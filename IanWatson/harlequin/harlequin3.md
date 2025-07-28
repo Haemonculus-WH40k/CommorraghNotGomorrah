@@ -360,6 +360,6 @@
 
 嗯，我不评价（
 
-[第四章](harlequin4)
+[前往第四章](harlequin4)
 
 [返回目录](index)
