@@ -25,6 +25,7 @@
 - [序言](harlequin0)
 - [第一章 谋杀](harlequin1)
 - [第二章 苏醒](harlequin2)
+- [第三章 叛乱](harlequin3)
 
 ***
 
