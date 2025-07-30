@@ -66,7 +66,7 @@
 - [第十章：驾驶泰坦 bolter porn](/CommorraghNotGomorrah/Space_Marine/chapter10)
 - [第十一章：胜利返航与爱恨交织情结](/CommorraghNotGomorrah/Space_Marine/chapter11)
 - [第十二章：太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter12)
-- [第十三章：继续太空矮子](/CommorraghNotGomorrah/Space_Marine/chapter13)
+- [第十三章：初见混沌人](/CommorraghNotGomorrah/Space_Marine/chapter13)
 - [第十四章：重口 T 佬](/CommorraghNotGomorrah/Space_Marine/chapter14)
 - [第十五章：守秘誓言与时光飞逝](/CommorraghNotGomorrah/Space_Marine/chapter15)
 
