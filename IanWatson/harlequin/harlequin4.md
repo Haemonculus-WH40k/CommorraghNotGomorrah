@@ -243,6 +243,7 @@
 [^6]: 作者自己组了一个词叫daemonry，‌后缀 -ry‌表状态/性质（类似 witchcraft“巫术”、devilry“恶行”，强调‌恶魔附身引发的扭曲状态。
 
 ---
+
 [^sp]: 嗯……后面这位金发女郎穿的是leotard体操服。上面挂着trophies，就是后文的scrotal ，难绷造型……
 
 [前往第五章](chapter5)
