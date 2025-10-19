@@ -27,6 +27,8 @@
 - [第二章 苏醒](harlequin2)
 - [第三章 叛乱](harlequin3)
 - [第四章 亚人](harlequin4)
+- [第五章 亚空间之眼](harlequin5)
+- [第六章 星语者](harlequin6)
 
 ***
 
