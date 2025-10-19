@@ -244,6 +244,6 @@
 
 [sp]: 嗯……后面这位金发女郎穿的是leotard体操服。上面挂着trophies，就是后文的scrotal ，难绷造型……
 
-[前往第五章](chapter5)
+[前往第五章](harlequin5)
 
 [返回目录](index)
