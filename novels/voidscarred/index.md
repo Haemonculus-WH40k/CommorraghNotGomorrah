@@ -29,3 +29,26 @@
 - [第七章后半](vs77)
 - [第十五章](vs15)
 - [尾声](vs34)
+
+---
+
+个人译名表：
+
+  Starsplinter 碎星者（海盗团）：
+
+    Myrin Stormdawn 迈林·风暴黎明，海盗男爵，“天堂之光号”之主
+
+    Xela Flickerstep 谢拉·掠影，阴影行者，迈林的大副兼誓剑士
+
+    Ellisar Elasando 伊利萨·埃拉桑多，“渴慕群星号”船长
+
+    Saraan Skyhand 萨兰·天手，伊利萨的大副
+
+
+  Ilmaren 伊尔玛伦（方舟）：
+
+    Taenar Leotharan 泰纳·莱奥萨兰，流放中的海军司令
+
+    Ra’thar Kyldran 拉’萨尔·基尔德兰，流放中的战巫
+
+    Faerys Asuthien 费里斯·阿苏辛，“垂死季节之舞”号的船长
