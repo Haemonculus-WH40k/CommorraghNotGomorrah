@@ -52,3 +52,7 @@
     Ra’thar Kyldran 拉’萨尔·基尔德兰，流放中的战巫
 
     Faerys Asuthien 费里斯·阿苏辛，“垂死季节之舞”号的船长
+
+    Elthorn Caman 埃尔索恩·卡曼，先知
+
+    Rhidhal Shelwe-nin 瑞达尔·谢维-宁，前任突击蝎神官
