@@ -10,5 +10,8 @@
 - [黑暗灵族之路·执政官之路](pathofarchon)
   
   作者 Andy Chambers，译者维克特 Vectaidh，校对Ciel，黑暗灵族之路系列第三部，讲述了科摩罗内乱的故事……
+- [虚空创痕（说书及节译)](voidscarred) 
+
+  作者 Mike Brooks，译者维克特 Vectaidh，讲述了灵族海盗的爱情（确信）与自由……
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
