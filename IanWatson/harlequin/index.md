@@ -29,6 +29,8 @@
 - [第四章 亚人](harlequin4)
 - [第五章 亚空间之眼](harlequin5)
 - [第六章 星语者](harlequin6)
+- [第七章 真相渐显](harlequin7)
+- [第八章 刺客](harlequin8)
 
 ***
 
