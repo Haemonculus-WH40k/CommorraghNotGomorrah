@@ -17,4 +17,8 @@
 - [docx：被诅咒的帝国-GM手册-瓦龙·蛇颂](被诅咒的帝国_瓦龙·蛇颂.docx)
 - [docx：被诅咒的帝国-GM手册-审判庭联络方式、安全屋、接头点](被诅咒的帝国_审判庭联络方式、安全屋、接头点.docx)
 
+**唯有战争（Warhammer 40,000 Roleplay: Only War):**
+
+- [pdf:《唯有战争》中文核心规则v0.5](《唯有战争》中文核心规则v0.5.pdf)
+
 [返回仓库主页](/CommorraghNotGomorrah/index)
