@@ -20,5 +20,6 @@
 **唯有战争（Warhammer 40,000 Roleplay: Only War):**
 
 - [pdf:《唯有战争》中文核心规则v0.5](《唯有战争》中文核心规则v0.5.pdf)
+- [pdf:《唯有战争》人类之盾-中文v0.75](《唯有战争》人类之盾-中文v0.75.pdf)
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
