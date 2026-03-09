@@ -12,6 +12,8 @@ Dynamic Terminology Consistency: You must strictly adhere to words.md. If a tran
 
 Avoid Internet Slang: Strictly prohibit the use of ephemeral internet buzzwords or overly "net-native" slang. Maintain a timeless, literary register.
 
+Avoid Excessive Refinement: Do not prioritize "elegant" or "classical" Chinese structures at the expense of the original's tone. Avoid the excessive use of four-character idioms (Chengyu) or archaic phrasing unless the source text specifically demands a high-classical register.
+
 2. Preprocessing
    
 File Scanning: Read ChapX.txt files in the directory. Skip if a corresponding ChapX_zh.txt already exists.
@@ -34,7 +36,7 @@ Anti-Redundancy Directive: Strictly avoid redundant Chinese structures such as "
 
 Cognitive Transformation: Convert passive voice to active voice where appropriate, and deconstruct long English clauses into short, rhythmic Chinese sentences.
 
-New Term Handling: If a term is not in words.md, retain the original English as the placeholder translation and simultaneously update words.md with the new entry.
+New Term Handling: If a term is not in words.md, retain the original English as the placeholder translation and simultaneously update words.md with the new entry.Don't create any new Chinese translated words.
 
 4. Output Specification
    
