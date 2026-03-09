@@ -4,9 +4,9 @@
 
 本书译自 *Path of the Renegade*，原作者 Andy Chambers，版权归 Games Workshop 及 the Black Library 所有。  
 
-本书为免费电子发布的不盈利民间译本，译者 Antigravity（对就是那个Antigravity），粗校 维克特Vectaidh。  
+本书为免费电子发布的不盈利民间译本，译者 Antigravity（对就是那个Antigravity），校对 维克特Vectaidh。  
 
-也就是说本书底稿为AI agent翻译，prompt附在链接内。
+也就是说本书底稿为AI agent翻译，prompt附在链接内。校对员正在努力试图让Antigravity稳定避免精神失常。
 
 如有疑问欢迎纠错。  
 
