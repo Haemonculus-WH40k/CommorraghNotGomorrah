@@ -48,6 +48,8 @@
 - [第九章 无畏](harlequin9)
 - [第十章 战舰](harlequin10)
 - [第十一章 先觉者](harlequin11)
+- [第十二章 侵入者](harlequin12)
+- [第十三章 侵略者](harlequin13)
 
 ***
 
