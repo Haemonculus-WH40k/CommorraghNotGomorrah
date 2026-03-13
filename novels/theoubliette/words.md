@@ -31,6 +31,8 @@ Margreve | 玛格雷夫
 
 ## 地点：
 
+Ceocan | 赛奥坎
+
 palace of Darcarden | 达尔卡登总督宫
 
 schola progenium | 忠嗣学院
