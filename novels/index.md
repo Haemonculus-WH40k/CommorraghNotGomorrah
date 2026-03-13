@@ -17,4 +17,8 @@
 
   作者 Mike Brooks，译者维克特 Vectaidh，讲述了灵族海盗的爱情（确信）与自由……
 
+- [秘密监牢](theoubliette)
+
+  作者J.C.Stearns，译者维克特Vectaidh，讲述了新任总督小姐与那来自黑暗的“恶魔”……
+
 [返回仓库主页](/CommorraghNotGomorrah/index)
