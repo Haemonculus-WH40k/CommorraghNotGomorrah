@@ -1,16 +1,16 @@
 ## 人名：
 
-Matkosen | 马特科森
+Ruprekt Matkosen | 鲁普雷克特·马特科森
 
-Ashielle | 阿希尔
+Ashielle Matkosen | 阿希尔·马特科森
 
-Esilia | 埃西莉亚
+Hanrik Matkosen | 汉里克·马特科森
 
-Vaneisen | 凡尼森
+Geordan Matkosen | 乔丹·马特科森
 
-Hanrik | 汉里克
+Esilia Vaneisen | 埃西莉亚·凡尼森
 
-Geordan | 乔丹
+Tanzeg Vaneisen | 坦泽格·凡尼森
 
 Idonell | 伊多内尔
 
@@ -18,7 +18,7 @@ Zelucan | 泽卢坎
 
 
 
-## 职位：
+## 职位与组织：
 
 coadjutor | 辅政
 
@@ -32,6 +32,20 @@ Langreve | 兰格雷夫
 
 Margreve | 玛格雷夫
 
+High Service | 高阶卫队
+
+schola progenium | 忠嗣学院
+
+Administratum | 内政部
+
+Munitorum | 军务部
+
+tech-priest | 技术神甫
+
+enginseer | 工造士
+
+warden | 监察卫兵
+
 
 ## 地点：
 
@@ -39,20 +53,17 @@ Ceocan | 赛奥坎
 
 palace of Darcarden | 达尔卡登总督宫
 
-schola progenium | 忠嗣学院
-
 Kostoveim | 科斯托维姆
 
 Callistonian Haven | 卡里斯托尼安避风港
 
-Administratum | 内政部
-
-Munitorum | 军务部
-
 Pellucidian Sea | 佩卢西迪安海
+
 
 ## 其他：
 
 aquila | 天鹰
 
 xeno | 异形
+
+Lex Imperialis | 帝国法典
