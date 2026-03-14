@@ -12,6 +12,10 @@ Hanrik | 汉里克
 
 Geordan | 乔丹
 
+Idonell | 伊多内尔
+
+Zelucan | 泽卢坎
+
 
 
 ## 职位：
@@ -39,6 +43,16 @@ schola progenium | 忠嗣学院
 
 Kostoveim | 科斯托维姆
 
+Callistonian Haven | 卡里斯托尼安避风港
+
+Administratum | 内政部
+
+Munitorum | 军务部
+
+Pellucidian Sea | 佩卢西迪安海
+
 ## 其他：
 
 aquila | 天鹰
+
+xeno | 异形
