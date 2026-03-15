@@ -51,10 +51,15 @@ enginseer | 工造士
 
 warden | 监察卫兵
 
+Astra Militarum | 星界军
+
+Inquisition | 审判庭
 
 ## 地点：
 
 Ceocan | 赛奥坎
+
+Old Ceoc | 古赛奥克
 
 palace of Darcarden | 达尔卡登总督宫
 
