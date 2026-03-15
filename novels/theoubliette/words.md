@@ -20,6 +20,8 @@ Drenata | 德雷娜塔
 
 Cheyster | 切斯特
 
+Lostrovsky | 洛斯特罗夫斯基
+
 
 ## 职位与组织：
 
