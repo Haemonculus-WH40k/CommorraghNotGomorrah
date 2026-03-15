@@ -16,6 +16,9 @@ Idonell | 伊多内尔
 
 Zelucan | 泽卢坎
 
+Drenata | 德雷娜塔
+
+Cheyster | 切斯特
 
 
 ## 职位与组织：
@@ -67,3 +70,5 @@ aquila | 天鹰
 xeno | 异形
 
 Lex Imperialis | 帝国法典
+
+juvenat treatment | 回春疗法
