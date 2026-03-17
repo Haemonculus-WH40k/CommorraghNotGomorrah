@@ -170,7 +170,7 @@
 
 [^1]: 这里的头衔为Vicereine，即Vice（副）+reine（王后），指女性总督或总督夫人。对应的男性总督为Viceroy，即Vice+roi（国王）。更字面翻译是“代理国王”，即君主委派代管殖民地的最高行政官员。
 
-      此外，关于本章提及的贵族体系生造词：“Greve”格雷夫应当指普通贵族，Greve+nate大意为贵族群体，Lan+greve为稍高一级的贵族（原型多半是landgraf方伯），而Mar+greve为更高级的贵族（对应markgraf，边伯）。后文还会提及Basilica Grevenator，为贵族的议事大殿。关于更多德语爵位的变迁和等级制度，展开来细说就太长了……值得一提的是，graf是德语的伯爵，而greve是法语罢工。
+      此外，关于本章提及的贵族体系生造词：“Greve”格雷夫应当指普通贵族，Greve+nate为贵族议会，Lan+greve为稍高一级的贵族（原型多半是landgraf方伯），而Mar+greve为更高级的贵族（对应markgraf，边伯）。后文还会提及Basilica Grevenator，为贵族的议事大殿。关于更多德语爵位的变迁和等级制度，展开来细说就太长了……值得一提的是，graf是德语的伯爵，而greve是法语罢工。
 
 [前往第二章](to2)
 
