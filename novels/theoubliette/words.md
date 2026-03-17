@@ -28,6 +28,8 @@ Ostap Fomynko | 奥斯塔普·福门科
 
 Ollan Fomynko | 奥兰·福门科
 
+Tianesh Bruisell | 蒂内什·布鲁塞尔
+
 
 ## 职位与组织：
 
@@ -37,7 +39,7 @@ governor | 总督
 
 Arbitrator | 法务官
 
-Grevenate | 格雷夫纳特
+Grevenate | 格雷夫议会
 
 Basilica Grevenator | 格雷夫大殿
 
