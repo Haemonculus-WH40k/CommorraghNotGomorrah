@@ -22,6 +22,8 @@ Cheyster | 切斯特
 
 Lostrovsky | 洛斯特罗夫斯基
 
+Ostap | 奥斯塔普
+
 
 ## 职位与组织：
 
@@ -32,6 +34,10 @@ governor | 总督
 Arbitrator | 法务官
 
 Grevenate | 格雷夫纳特
+
+Basilica Grevenator | 格雷夫大殿
+
+Occurriam | 觐见区
 
 Langreve | 兰格雷夫
 
@@ -54,6 +60,15 @@ warden | 监察卫兵
 Astra Militarum | 星界军
 
 Inquisition | 审判庭
+
+Adepta Sororitas | 战斗修女会
+
+Aeronautica Imperialis | 帝国海航
+
+Adeptus Arbites | 法务部
+
+Adeptus Astartes | 阿斯塔特修会
+
 
 ## 地点：
 
