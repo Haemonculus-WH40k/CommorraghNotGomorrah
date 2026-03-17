@@ -12,6 +12,8 @@ Esilia Vaneisen | 埃西莉亚·凡尼森
 
 Tanzeg Vaneisen | 坦泽格·凡尼森
 
+Ireina Vaneisen | 伊蕾娜·凡尼森
+
 Idonell | 伊多内尔
 
 Zelucan | 泽卢坎
