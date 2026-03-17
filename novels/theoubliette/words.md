@@ -24,7 +24,9 @@ Cheyster | 切斯特
 
 Lostrovsky | 洛斯特罗夫斯基
 
-Ostap | 奥斯塔普
+Ostap Fomynko | 奥斯塔普·福门科
+
+Ollan Fomynko | 奥兰·福门科
 
 
 ## 职位与组织：
