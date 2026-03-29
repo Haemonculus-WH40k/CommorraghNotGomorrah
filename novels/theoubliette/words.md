@@ -36,6 +36,10 @@ Lagaret Gavozny | 拉加雷特·加沃兹尼
 
 Fidal Barrin | 菲达尔·巴林
 
+Larrichan | 拉里查
+
+Phoebian | 菲比安
+
 
 ## 职位与组织：
 
@@ -111,6 +115,8 @@ Lex Imperialis | 帝国法典
 juvenat treatment | 回春疗法
 
 Reunification | 大回归
+
+Great Restoration | 大重建
 
 recaff | 雷卡咖啡
 
