@@ -34,7 +34,7 @@ Tianesh Bruisell | 蒂内什·布鲁塞尔
 
 Lagaret Gavozny | 拉加雷特·加沃兹尼
 
-Barrin | 巴林
+Fidal Barrin | 菲达尔·巴林
 
 
 ## 职位与组织：
@@ -115,5 +115,7 @@ Reunification | 大回归
 recaff | 雷卡咖啡
 
 mandrake | 曼德拉
+
+Devotional Banquet | 献祭晚宴
 
 
