@@ -229,7 +229,8 @@
 [^1]: 不禁想起诗篇19:10。They are more precious than gold, than much pure gold.
 
 [^2]: 我们能在不止一处作品中找到这个“life-in-death”的表述，不过其中尤其有趣的，译者认为是来自Coleridge的古舟子咏。这首长诗讲述了老水手因射杀吉祥的信天翁导致全船受诅咒，船员全部死亡，老水手自己则背负活下去的惩罚寻求救赎。长诗中的life-in-death用于形容与“死”对应的“死中之生”：灵魂从他们的身体里飞走/飞向幸福或灾祸/每一个灵魂都像弩箭嗖嗖/从我身边掠过/……（略一段）/可喔！比那更可怕的/是死人眼里的诅咒！/七天七宿，我受尽折磨/却一死难求。（叶紫译）
-第二个有趣的案例是Yeats的Byzantium，主题为对精神秩序和永恒的关注。其中相关片段为：A mouth that has no moisture and no breath/Breathless mouths may summon/I hail the superhuman/I call it death-in-life and life-in-death.
+
+      第二个有趣的案例是Yeats的Byzantium，主题为对精神秩序和永恒的关注。其中相关片段为：A mouth that has no moisture and no breath/Breathless mouths may summon/I hail the superhuman/I call it death-in-life and life-in-death.
 
 [前往尾声](draco19)
 
