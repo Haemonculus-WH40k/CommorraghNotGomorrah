@@ -44,6 +44,10 @@ Phoebian | 菲比安
 
 Zborov | 兹博罗夫
 
+Inzigo Hodyuk | 因齐戈·霍杜克
+
+Norshynka | 诺申卡
+
 
 ## 职位与组织：
 
