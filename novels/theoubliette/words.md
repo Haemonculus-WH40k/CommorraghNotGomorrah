@@ -30,6 +30,8 @@ Ostap Fomynko | 奥斯塔普·福门科
 
 Ollan Fomynko | 奥兰·福门科
 
+Langreve Evanova | 兰格雷夫·埃瓦诺娃
+
 Tianesh Bruisell | 蒂内什·布鲁塞尔
 
 Lagaret Gavozny | 拉加雷特·加沃兹尼
@@ -44,6 +46,8 @@ Phoebian | 菲比安
 ## 职位与组织：
 
 coadjutor | 辅政
+
+minister | 公使
 
 governor | 总督
 
@@ -103,6 +107,10 @@ Callistonian Haven | 卡里斯托尼安避风港
 Pellucidian Sea | 佩卢西迪安海
 
 Trenkovi Bay | 特伦科维湾
+
+Tupykamin | 图皮卡明
+
+Dnisiv | 德尼西夫
 
 ## 其他：
 
