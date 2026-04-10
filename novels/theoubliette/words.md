@@ -136,6 +136,8 @@ Great Restoration | 大重建
 
 recaff | 雷卡咖啡
 
+lho-stick | 洛烟棒
+
 mandrake | 曼德拉
 
 Devotional Banquet | 献祭晚宴
