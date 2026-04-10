@@ -95,6 +95,8 @@ Adeptus Arbites | 法务部
 
 Adeptus Astartes | 阿斯塔特修会
 
+Adeptus Astra Telepathica | 星语庭
+
 astropaths | 星语者
 
 
