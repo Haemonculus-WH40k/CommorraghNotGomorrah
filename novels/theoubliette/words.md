@@ -120,6 +120,8 @@ Tupykamin | 图皮卡明
 
 Dnisiv | 德尼西夫
 
+Sorinoux | 索里努克斯
+
 ## 其他：
 
 aquila | 天鹰
@@ -140,6 +142,6 @@ lho-stick | 洛烟棒
 
 mandrake | 曼德拉
 
-Devotional Banquet | 献祭晚宴
+Devotional Banquet | 献身晚宴
 
 
