@@ -108,6 +108,8 @@ Old Ceoc | 古赛奥克
 
 palace of Darcarden | 达尔卡登总督宫
 
+The Draper’s Hall | 织造厅
+
 Kostoveim | 科斯托维姆
 
 Callistonian Haven | 卡里斯托尼安避风港
@@ -136,6 +138,8 @@ Reunification | 大回归
 
 Great Restoration | 大重建
 
+Resurgence | 复苏
+
 recaff | 雷卡咖啡
 
 lho-stick | 洛烟棒
@@ -144,4 +148,5 @@ mandrake | 曼德拉
 
 Devotional Banquet | 献身晚宴
 
+Ceramite | 陶钢
 
