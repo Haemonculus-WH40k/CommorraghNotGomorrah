@@ -124,6 +124,8 @@ Dnisiv | 德尼西夫
 
 Sorinoux | 索里努克斯
 
+athenaeum | 学术馆
+
 ## 其他：
 
 aquila | 天鹰
