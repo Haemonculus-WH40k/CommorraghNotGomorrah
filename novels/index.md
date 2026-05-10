@@ -10,12 +10,12 @@
 - [虚空创痕（说书及节译)](voidscarred) 
 
   作者 Mike Brooks，译者维克特 Vectaidh，讲述了灵族海盗的爱情（确信）与自由……
-
-## 未完成目录
-
 - [遗忘监牢](theoubliette)
 
   作者J.C.Stearns，译者维克特Vectaidh，讲述了新任总督小姐与那来自黑暗的“恶魔”……
+
+## 未完成目录
+
 - [黑暗灵族之路·叛徒之路](pathoftherenegade)
 
   作者 Andy Chambers，译者Antigravity，校对维克特 Vectaidh，黑暗灵族之路系列第一部，讲述了大分裂的序幕……
