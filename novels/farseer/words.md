@@ -5,6 +5,7 @@
 - Medusa Freeport: 美杜莎自由港
 - Star of Venam: 维南之星号
 - Typhon: 提丰
+- Belial IV: 贝利亚IV
 - Warren: “兔子洞”
 - Athenys: 阿瑟妮丝
 - Auric: 奥里克
