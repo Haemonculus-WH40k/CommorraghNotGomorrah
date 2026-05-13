@@ -6,3 +6,5 @@
 - Star of Venam: 维南之星号
 - Typhon: 提丰
 - Warren: “兔子洞”
+- Athenys: 阿瑟妮丝
+- Auric: 奥里克
