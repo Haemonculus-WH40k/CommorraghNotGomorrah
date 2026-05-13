@@ -7,9 +7,9 @@
 感谢千子机仆 AntsiLynn 提出的技术方案，为我解决了到底用什么来建文字站的万古难题。
 
 ## 翻译与内容链接
-- [审判庭战争 - Ian Watson](/CommorraghNotGomorrah/IanWatson)
+- [审判庭战争三部曲 - Ian Watson](/CommorraghNotGomorrah/IanWatson)
 - [星际战士 - Ian Watson](/CommorraghNotGomorrah/Space_Marine)
-- [战锤其他中长篇翻译](/CommorraghNotGomorrah/novels)
-- [短篇翻译](/CommorraghNotGomorrah/ShortStory)
-- [战锤跑团内容翻译](/CommorraghNotGomorrah/Trpg)
+- [战锤中长篇翻译](/CommorraghNotGomorrah/novels)
+- [战锤短篇翻译](/CommorraghNotGomorrah/ShortStory)
+- [战锤跑团翻译](/CommorraghNotGomorrah/Trpg)
 
