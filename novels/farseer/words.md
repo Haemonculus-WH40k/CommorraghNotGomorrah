@@ -1,0 +1,29 @@
+# Glossary (words.md)
+
+- Arbitres: 法务部
+- Blind Bob: 盲眼鲍勃
+- Cadian firewine: 卡迪安烈酒
+- Ducat: 杜卡特
+- Dugan: 杜根
+- Eye: 恐惧之眼
+- Fat Roj: 胖子罗杰
+- golconda: 戈尔康达粉
+- gretchin-spawned: 屁精杂种
+- Hydraxian: 海德拉克斯
+- Imperial: 帝国
+- Inquisition: 审判庭
+- Janus Darke: 杰纳斯·达克
+- Justina: 贾丝蒂娜
+- Killean: 基里安
+- Maggot: 蛆虫
+- Medusa Freeport: 美杜莎自由港
+- Murray the Skink: 石龙子默里
+- Old Elisa: 老伊丽莎
+- Palace of Pleasure: 极乐宫
+- Star of Venam: 维纳姆之星号
+- Typhon: 提丰
+- Warren: 迷宫区
+- Weezel: 威泽尔
+- weirdroot: 怪根
+- glow-globes：发光球
+- Rouge Trader：行商浪人
