@@ -10,3 +10,5 @@
 - Athenys: 阿瑟妮丝
 - Auric: 奥里克
 - Shaha Gaathon: 沙哈·加索恩
+- the Great Masque: 大假面剧
+- Ascension: 扬升
