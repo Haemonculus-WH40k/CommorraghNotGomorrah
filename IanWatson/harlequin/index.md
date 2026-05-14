@@ -52,6 +52,9 @@
 - [第十三章 侵略者](harlequin13)
 - [第十四章 莱克桑德罗](harlequin14)
 - [第十五章 网道](harlequin15)
+- [第十六章 决斗](harlequin16)
+- [第十七章 混沌](harlequin17)
+- [第十八章 绝命](harlequin18)
 
 ***
 
