@@ -9,3 +9,4 @@
 - Warren: “兔子洞”
 - Athenys: 阿瑟妮丝
 - Auric: 奥里克
+- Shaha Gaathon: 沙哈·加索恩
