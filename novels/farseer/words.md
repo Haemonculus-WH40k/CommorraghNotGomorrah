@@ -12,3 +12,5 @@
 - Shaha Gaathon: 沙哈·加索恩
 - the Great Masque: 大假面剧
 - Ascension: 扬升
+- Simon Belisarius: 西蒙·贝利撒留
+- Fat Roj: 胖子罗杰
