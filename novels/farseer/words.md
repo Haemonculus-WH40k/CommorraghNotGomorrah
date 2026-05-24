@@ -1,16 +1,16 @@
 - Janus Darke: 亚努斯·达克
 - Rouge Trader：行商浪人
 - Justina: 贾丝蒂娜
-- Killean: 基里安
 - Medusa Freeport: 美杜莎自由港
 - Star of Venam: 维南之星号
 - Typhon: 提丰
-- Belial IV: 贝利亚IV
+- Belial IV: 贝利亚IV星
 - Warren: “兔子洞”
 - Athenys: 阿瑟妮丝
-- Auric: 奥里克
+- Auric Stormcloud: 奥里克·暴风云
 - Shaha Gaathon: 沙哈·加索恩
 - the Great Masque: 大假面剧
 - Ascension: 扬升
 - Simon Belisarius: 西蒙·贝利撒留
 - Fat Roj: 胖子罗杰
+- Segmentum Obscura: 朦胧星域
