@@ -14,3 +14,5 @@
 - Simon Belisarius: 西蒙·贝利撒留
 - Fat Roj: 胖子罗杰
 - Segmentum Obscura: 朦胧星域
+- Kham Bell: 卡姆·贝尔
+- Stiel: 斯蒂尔
