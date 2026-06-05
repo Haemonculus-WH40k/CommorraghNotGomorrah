@@ -16,3 +16,4 @@
 - Segmentum Obscura: 朦胧星域
 - Kham Bell: 卡姆·贝尔
 - Stiel: 斯蒂尔
+- phaeton: 敞篷艇
