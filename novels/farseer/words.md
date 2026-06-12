@@ -17,3 +17,5 @@
 - Kham Bell: 卡姆·贝尔
 - Stiel: 斯蒂尔
 - phaeton: 敞篷艇
+- Navigator: 领航员
+- tech-adept: 技术神甫
