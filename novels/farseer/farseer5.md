@@ -144,7 +144,7 @@
 
 [^4]: Still, keep the problems of tomorrow until tomorrow, as his old tutor Karadoc had always said. There were plenty of things to worry him today.这段话可能有一个来源，也就是Matthew 6:34，Be not therefore solicitous for tomorrow; for the morrow will be solicitous for itself.Sufficient for the day is the evil thereof.（所以你们不要为明天忧虑，因为明天有明天的忧虑。一天的苦足够一天受的了。）
 
-[^5]: 上下两段的“老祖宗”和“祖传机仆”用词都是ancestral。下文的老朋友亚努斯还是这个词。（另，译者有些怀疑这里的servitor到底是机仆还是一般仆人。）
+[^5]: 上下两段的“始祖型人类”和“祖传机仆”用词都是ancestral。根据推测，本文中该用词指的是与基因改变后的领航员对应的未进化原始普通人。（另，译者有些怀疑这里的servitor到底是机仆还是一般仆人。）
 
 [^6]: Kill monsters while they're little, 不确定出处，感觉有点像莎士比亚的凯撒第二幕第一场，布鲁图斯提议kill him in the shell（把凯撒比作蛇，趁他还在蛇蛋壳里的时候把他杀死）。
 
