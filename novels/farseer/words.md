@@ -19,3 +19,4 @@
 - phaeton: 敞篷艇
 - Navigator: 领航员
 - tech-adept: 技术神甫
+- dreamstoen: 梦石
