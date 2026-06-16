@@ -20,3 +20,4 @@
 - Navigator: 领航员
 - tech-adept: 技术神甫
 - dreamstoen: 梦石
+- farseer: 大先知
