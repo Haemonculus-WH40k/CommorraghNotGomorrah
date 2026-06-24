@@ -21,3 +21,4 @@
 - tech-adept: 技术神甫
 - dreamstoen: 梦石
 - farseer: 大先知
+- sha'eil: 沙’伊尔
