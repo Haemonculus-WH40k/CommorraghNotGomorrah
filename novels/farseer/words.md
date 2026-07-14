@@ -23,3 +23,4 @@
 - farseer: 大先知
 - sha'eil: 沙’伊尔
 - duralloy: 耐久合金
+- Astronomican: 星炬
