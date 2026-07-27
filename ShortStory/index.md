@@ -25,6 +25,9 @@
 - [放逐之道](ThePathForsaken)
 
   作者 Rob Sanders，译者 维克特 Vectaidh，讲述了一个游侠小分队营救行动达成目标的故事……
+- [血之泪流](TearsOfBlood)
+
+  作者C.S.Goto，译者 维克特 Vectaidh，讲述了一个年幼的先知独自面见怀言者的故事……
 
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
