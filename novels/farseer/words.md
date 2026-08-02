@@ -25,3 +25,4 @@
 - duralloy: 耐久合金
 - Astronomican: 星炬
 - Zarghan Ironfist: 扎尔甘·铁拳
+- The Pride of Sin: 罪恶之傲号
