@@ -26,3 +26,4 @@
 - Astronomican: 星炬
 - Zarghan Ironfist: 扎尔甘·铁拳
 - The Pride of Sin: 罪之骄傲号
+- Chamber of Faces: 神相大厅
