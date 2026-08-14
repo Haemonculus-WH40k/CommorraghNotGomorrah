@@ -22,4 +22,7 @@
 - [pdf:《唯有战争》中文核心规则v0.5](《唯有战争》中文核心规则v0.5.pdf)
 - [pdf:《唯有战争》人类之盾-中文v0.75](《唯有战争》人类之盾-中文v0.75.pdf)
 
+**行商浪人（Warhammer 40,000 Roleplay: Rogue Trader):**
+- [pdf:《行商浪人》灵魂掠夺者（黑暗灵族扩展）](RT灵魂掠夺者（黑豆扩）.pdf)
+
 [返回仓库主页](/CommorraghNotGomorrah/index)
