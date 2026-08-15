@@ -18,7 +18,7 @@
 
 - [大先知](farseer)
 
-  作者William King，译者维克特Vectaidh，讲述了（暂略）
+  作者William King，译者维克特Vectaidh，讲述了行商浪人受灵族雇佣一同前往恐惧之眼的故事……
 - [黑暗灵族之路·叛徒之路](pathoftherenegade)
 
   作者 Andy Chambers，译者Antigravity，校对维克特 Vectaidh，黑暗灵族之路系列第一部，讲述了大分裂的序幕……
