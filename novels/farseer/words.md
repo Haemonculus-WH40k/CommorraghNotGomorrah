@@ -14,16 +14,14 @@
 - Shaha Gaathon: 沙哈·加索恩
 
 ## 其他：
-- Medusa Freeport: 美杜莎自由港
 - Star of Venam: 维南之星号
-- Typhon: 提丰
+- The Pride of Sin: 罪之骄傲号
+- Medusa Freeport: 美杜莎自由港
+- Typhon: 提丰星
 - Belial IV: 贝利亚IV星
-- Fat Roj: 胖子罗杰
+- sha'eil: 沙’伊尔
 - phaeton: 敞篷艇
 - Navigator: 领航员
 - dreamstone: 梦石
-- farseer: 大先知
-- sha'eil: 沙’伊尔
 - duralloy: 耐久合金
-- The Pride of Sin: 罪之骄傲号
 - Chamber of Faces: 神相大厅
