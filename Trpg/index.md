@@ -2,6 +2,10 @@
 
 诸圣修会谁也找不到的阴暗基地里，跑团规则书缓缓堆积……
 
+## 网页版已翻译英雄碎片整合
+
+[40KTrpg](https://haemonculus-wh40k.github.io/40KTrpg/)
+
 ## 资源下载目录
 
 **被诅咒的帝国 (Warhammer 40,000 Roleplay: Imperium Maledictum):**
