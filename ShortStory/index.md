@@ -28,6 +28,9 @@
 - [血之泪流](TearsOfBlood)
 
   作者C.S.Goto，译者 维克特 Vectaidh，讲述了一个年幼的先知独自面见怀言者的故事……
+- [女妖狂嚎](HowlOfTheBanshee)
+
+  作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个狂嚎女妖姐妹们出征的故事……
 
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
