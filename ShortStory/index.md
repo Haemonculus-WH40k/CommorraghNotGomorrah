@@ -32,5 +32,9 @@
 
   作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个狂嚎女妖姐妹们出征的故事……
 
+- [天堂之影](ShadowsOfHeaven)
+
+  作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个死神军降临战场的故事……
+
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
