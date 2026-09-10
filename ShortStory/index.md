@@ -35,6 +35,8 @@
 - [天堂之影](ShadowsOfHeaven)
 
   作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个死神军降临战场的故事……
+- [宽容的回报](TheRewardsOfTolerance)
 
+  作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个海盗撞上海盗的故事……
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
