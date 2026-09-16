@@ -38,5 +38,8 @@
 - [宽容的回报](TheRewardsOfTolerance)
 
   作者Gav Thorpe，译者 维克特 Vectaidh，讲述了一个海盗撞上海盗的故事……
+- [火之心](Fireheart)
+
+  作者Gav Thorpe，译者 维克特 Vectaidh，讲述了萨姆罕探秘死灵墓的前奏……
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
