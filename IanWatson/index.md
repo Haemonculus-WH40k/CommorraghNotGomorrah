@@ -37,6 +37,17 @@
 
 ---
 
+### 第三部：混沌之子（Chaos Child）  
+
+由 真红之月 与 维克特Vectaidh 合译。
+
+### 书籍简介  
+满怀对逝者的思念与痛苦，贾克·德拉科将不断走向他的终点……
+
+[**在线阅读《混沌之子》**](/CommorraghNotGomorrah/IanWatson/chaoschild)  
+
+---
+
 ## 系列外传短篇：
 ### 扭曲的群星（Warped Stars）
 **译者：** 维克特 Vectaidh  
