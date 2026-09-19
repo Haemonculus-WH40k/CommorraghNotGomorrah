@@ -42,4 +42,8 @@
 
   作者Gav Thorpe，译者 维克特 Vectaidh，讲述了萨姆罕探秘死灵墓的前奏……
 
+- [卡纳克战役：灵魂之战](SpiritWar)
+
+  作者Rob Sanders，译者 维克特 Vectaidh，讲述了卡纳克战役其三，亡者归来的故事……
+
 [返回仓库主页](/CommorraghNotGomorrah/index)
