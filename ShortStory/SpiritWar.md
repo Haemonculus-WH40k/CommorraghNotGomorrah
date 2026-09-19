@@ -313,3 +313,5 @@
 “对于我所有的同袍，我别无他求。”黄道王子以冷峻而坦率的语气对先知说。
 
 ---
+
+[^1]: 这里站不下这么多人……言归正传，这些头衔中有的似乎是现编的，有的是既有的。以防译者辨认出现失误，在此放上原文：Nemesor Raznaak, Emissary of Oblivion, Nomarch of Deneveh and High Slaughtekh of the Cult of the Crimson Doom... the yngiract were led by the Dynasts of the Karnaq Client Annectate, the Royal Hetch and the Deneveh Imperfecta of The High Slaughtekh’s own Crimson Doom.
