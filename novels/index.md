@@ -19,12 +19,12 @@
 
 ## 未完成目录
 
-- [黑暗灵族之路·叛徒之路](pathoftherenegade)
-
-  作者 Andy Chambers，译者Antigravity，校对维克特 Vectaidh，黑暗灵族之路系列第一部，讲述了大分裂的序幕……
 - [黑暗灵族之路·执政官之路](pathofarchon)
   
   作者 Andy Chambers，译者维克特 Vectaidh，校对Ciel，黑暗灵族之路系列第三部，讲述了科摩罗内乱的故事……
+- [死神军崛起·幽冥战士](ghostwarrior)
+  
+  作者 Gav Thorpe，译者维克特 Vectaidh，死神军崛起系列，讲述了扎伊苏特拉方舟黑暗的故事……
 
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
