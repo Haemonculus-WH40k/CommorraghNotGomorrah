@@ -134,6 +134,6 @@
 
 [^1]: kha-vir, sword of sorrows，老妪之剑之一。顺便列举一下当前的老太太剑：Kha-vir, the Sword of Sorrows，伊芙蕾妮持有；Asu-var, the Sword of Silent Screams，千面持有；Vilith-zhar, the Sword of Souls，死神化身持有；The Spear of Twilight，伊瑞尔王子持有（这是剑吗x）；夏拉希声称有一把在色孽宫殿；塔拉辛展品里被认为有一把（老妪莫非六个手指……？）。
 
-[前往第二章](gw2.md)
+[前往第二章](gw2)
 
 [返回目录](index)
