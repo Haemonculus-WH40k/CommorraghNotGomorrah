@@ -210,7 +210,7 @@
 
 “如今已无人知晓祂的名讳，”贾克的声音回答。他也走进了花园。“在经历了如此漫长的超然痛苦与宇宙守望之后，祂也不可能再知晓自己的名字。”
 
-*“Bionn an fear ciallmar ina thost nuair nd bionn pioc le rd aige。”* 他用艾达语神秘地吟诵道，然后穿过灌木丛大步走去。
+*“Bionn an fear ciallmar ina thost nuair nd bionn pioc le rd aige。”* [^5]他用艾达语神秘地吟诵道，然后穿过灌木丛大步走去。
 
 ---
 
@@ -221,6 +221,8 @@
 [^3]: Loquax：多嘴的、话多的、喋喋不休的
 
 [^4]: 此处作者虚构的“艾达灵族语”实为借用爱尔兰语。原句对应爱尔兰语“Níl ann ach cleasaí, agus tá an iomad measa aige air féin.”，字面意为“他不过是个耍把戏的，而且他太把自己当回事了”。其中 cleasaí 意为“耍花招的人/捣蛋鬼”。
+
+[^5]: 此处同样化用自爱尔兰语。原句对应爱尔兰语谚语“Bíonn an fear ciallmhar ina thost nuair ná bhíonn pioc le rá aige”，意为“智者会在无话可说时保持沉默”（ciallmhar 意为明智的，ina thost 意为保持沉默）。
 
 [前往第九章](cc9)
 
