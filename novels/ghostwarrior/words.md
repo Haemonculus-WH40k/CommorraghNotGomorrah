@@ -23,3 +23,5 @@
 法乌拉萨（Faurasah）
 
 阿洛里尼斯（Alorynis）
+
+吟骨者利特里安（bonesinger Lietriam）
