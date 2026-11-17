@@ -45,5 +45,8 @@
 - [卡纳克战役：灵魂之战](SpiritWar)
 
   作者Rob Sanders，译者 维克特 Vectaidh，讲述了卡纳克战役其三，亡者归来的故事……
+- [阴影游戏](ShadowPlay)
+
+ 作者Rob Sanders，译者 维克特 Vectaidh，讲述了审判官切瓦克偶遇莉莉丝的和谐故事……
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
