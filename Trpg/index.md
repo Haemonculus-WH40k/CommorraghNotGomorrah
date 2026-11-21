@@ -31,7 +31,7 @@
 - [pdf:《行商浪人》黑暗亲族（黑豆职业扩）.pdf](RT-黑暗亲族（黑豆职业扩）.pdf)
 
 **怒火与荣耀（Wrath and Glory）:**
-- [pdf:WNG-余烬承传（尖耳朵扩）.pdf](WNG-余烬承传（尖耳朵扩）.pdf)
-- [pdf:WNG-乌卡里的碎片（豆芽模组）.pdf](WNG-乌卡里的碎片（豆芽模组）.pdf)
+- [pdf: WNG-余烬承传（尖耳朵扩）.pdf](WNG-余烬承传（尖耳朵扩）.pdf)
+- [pdf: WNG-乌卡里的碎片（豆芽模组）.pdf](WNG-乌卡里的碎片（豆芽模组）.pdf)
 
 [返回仓库主页](/CommorraghNotGomorrah/index)
