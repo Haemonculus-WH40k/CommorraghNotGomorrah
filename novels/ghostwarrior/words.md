@@ -27,3 +27,5 @@
 吟骨者利特里安（bonesinger Lietriam）
 
 埃尔达内什（Eldanesh）
+
+莫莱-黑格（Morai-Heg）
