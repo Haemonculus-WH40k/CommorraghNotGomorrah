@@ -25,3 +25,5 @@
 阿洛里尼斯（Alorynis）
 
 吟骨者利特里安（bonesinger Lietriam）
+
+埃尔达内什（Eldanesh）
